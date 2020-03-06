@@ -141,8 +141,7 @@ authentication.
     !!! tip
     
         For more information on revoking/accepting user consent, see
-        [Configuring consent for
-        services](../../learn/using-the-end-user-dashboard#configuring-consent-for-services)
+        [Consent management](../../learn/user-portal/#consent-management)
         .
     
 
