@@ -84,7 +84,7 @@ Follow the steps below to define the password policy that Robert wants to enforc
 
 	2.	Log in with the credentials of the user account that you created.
 
-		<img src="../../assets/img/learn/sign-in-form.png" alt="Sign In form" width="400" style="border:1px solid grey"> 	
+		<img src="../../assets/img/learn/userportal-login-screen.png" alt="Sign In form" width="400" style="border:1px solid grey"> 	
 
 	3.	Under **Security**, click **Change your password**. 
 
